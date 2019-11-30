@@ -1,0 +1,13 @@
+Saved/
+Intermediate/
+Build/
+DerivedDataCache/
+/Binaries/
+.vs/
+*.sln
+*.wav
+*.mp4
+*.avi
+*.bank
+*.pdb
+.unsaved/
